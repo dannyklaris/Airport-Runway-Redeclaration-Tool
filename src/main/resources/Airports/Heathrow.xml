@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <Name>Heathrow</Name>
+    <Runway Name="09L" TORA="3902" TODA="3902" ASDA="3902" LDA="3595" DPTH="306"/>
+    <Runway Name="09R" TORA="3660" TODA="3660" ASDA="3660" LDA="3353" DPTH="307"/>
+    <Runway Name="27L" TORA="3660" TODA="3660" ASDA="3660" LDA="3660" DPTH="0"/>
+    <Runway Name="27R" TORA="3884" TODA="3962" ASDA="3884" LDA="3884" DPTH="0"/>
+</root>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <Name>Gatwick</Name>
+    <Runway Name="08R" TORA="3159" TODA="3311" ASDA="3233" LDA="2765" DPTH="394"/>
+    <Runway Name="26L" TORA="3255" TODA="3399" ASDA="3317" LDA="2830" DPTH="425"/>
+    <Runway Name="08L" TORA="2561" TODA="3040" ASDA="2561" LDA="2241" DPTH="320"/>
+    <Runway Name="26R" TORA="2515" TODA="2657" ASDA="2515" LDA="2146" DPTH="369"/>
+</root>

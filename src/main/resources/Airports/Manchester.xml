@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <Name>Manchester</Name>
+    <Runway Name="05L" TORA="3014" TODA="3229" ASDA="3014" LDA="2587" DPTH="427"/>
+    <Runway Name="05R" TORA="3047" TODA="3347" ASDA="3047" LDA="2864" DPTH="183"/>
+    <Runway Name="23L" TORA="3200" TODA="3500" ASDA="3200" LDA="2864" DPTH="336"/>
+    <Runway Name="23R" TORA="2897" TODA="3197" ASDA="2897" LDA="2714" DPTH="183"/>
+</root>
